@@ -1,0 +1,4 @@
+#ignore env file
+.env
+#ignore logs folder
+logs/
